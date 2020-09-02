@@ -13,7 +13,7 @@ MTBF Dataset:
 
 Combined data set that includes the intersection of unscheduled detentions, technical materials used to summarize the production process, and the work shift present at the time of the event.
 
-Material Adicional:
+Additional Material
 ------------------
 
 Random data generator for testing the neural network models obtained from the data mentioned above. *It is in the experimental phase.*
