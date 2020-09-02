@@ -1,20 +1,20 @@
-CONTENIDO
-=========
+CONTENT
+=======
 
-Conjunto de datos multivariable sintetizado a partir de los informes estadísticos de mantención y de los reportes obtenidos de los sistemas de planificación de recursos empresariales (ERP).
+The Dataset folder content two file. These files are, both, a synthesized data set we create as a case of study for evaluate ours hypothesis and tools. 
 
 ERP Dataset:
 -----------
 
-Conjunto de datos con fechas y consumos de materiales técnicos, etiquetados como *partes*.
+Data set with dates and consumption of technical materials, labeled as * parts *.
 
 MTBF Dataset:
 ------------
 
-Conjunto de datos combinados que comprende la intersección de detenciones no programadas, materiales técnicos utilizados para reanudar el proceso productivo, y el turno operativo presente al momento de ocurrido el evento.
+Combined data set that includes the intersection of unscheduled detentions, technical materials used to summarize the production process, and the work shift present at the time of the event.
 
 Material Adicional:
 ------------------
 
-Generador de data aleatorio para pruebas de los modelos de red neuronal obtenido a partir de los dataset mencionados anteriormente. *Se encuentra en fase experimental.*
+Random data generator for testing the neural network models obtained from the data mentioned above. * It is in the experimental phase. *
 
