@@ -1,7 +1,7 @@
 CONTENT
 =======
 
-The Dataset folder content two file. These files are, both, a synthesized data set we create as a case of study for evaluate ours hypothesis and tools. 
+The Dataset folder content two file. These files are both, a synthesized data set we create as a case of study for evaluate ours hypothesis and tools. 
 
 ERP Dataset:
 -----------
