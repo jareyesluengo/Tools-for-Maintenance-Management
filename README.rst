@@ -6,7 +6,7 @@ The Dataset folder content two file. These files are both, a synthesized data se
 ERP Dataset:
 -----------
 
-Data set with dates and consumption of technical materials, labeled as * parts *.
+Data set with dates and consumption of technical materials, labeled as *parts*.
 
 MTBF Dataset:
 ------------
@@ -16,5 +16,5 @@ Combined data set that includes the intersection of unscheduled detentions, tech
 Material Adicional:
 ------------------
 
-Random data generator for testing the neural network models obtained from the data mentioned above. * It is in the experimental phase. *
+Random data generator for testing the neural network models obtained from the data mentioned above. *It is in the experimental phase.*
 
